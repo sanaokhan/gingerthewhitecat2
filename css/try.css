@@ -1,0 +1,90 @@
+/* Resize class for images */
+.resize{
+	width: 400px; 
+	height: auto;
+}
+body {
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+header{
+	background-color: Chocolate;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+h1, h2{
+	font-family: "Anton SC", sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 100px;
+}
+
+header img{
+	border-radius: 250px;
+	width; 300px;
+	border:20px solid #DAA520;
+}
+
+Main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 50px;
+	color: IndianRed;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: IndianRed;
+
+}
+a:hover{
+	color: white;
+	background-color: FireBrick;
+}
+
+footer{
+	background-color: Chocolate;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: PeachPuff;
+	font-style: italic;
+	margin-top: 0;
+}
+
+
+
+
+
